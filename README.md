@@ -2,6 +2,7 @@
 
 ## Author
 Nehal Pawar
+Research Analyst, Syracuse University
 September 2025
 
 ---
