@@ -1,0 +1,7 @@
+Intro: We’re doing a quick AI-generated street interview about Syracuse women’s lacrosse.
+Q1: From the numbers you validated in Python, what immediately stood out this season?
+Q2: You tested multiple LLMs—how did ChatGPT, Gemini, Claude, and Copilot compare?
+Q3: How do those AI takeaways translate into actual coaching moves for practice and games?
+Q4: Who’s on your MVP short-list and why?
+Q5: What’s one defensive focus and one offensive focus you’re carrying into next season?
+Outro: Thanks for the breakdown—looking forward to seeing the plan in action.
