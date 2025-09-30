@@ -1,9 +1,8 @@
 # Task 07: Ethical Decision Making
 
 ## Author
-Nehal Pawar
-Research Analyst, Syracuse University
-September 2025
+Nehal Pawar  
+September 2025  
 
 ---
 
