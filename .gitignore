@@ -1,11 +1,22 @@
+# Ignore outputs (large media files, not required)
 outputs/
+
+# Ignore ethics folder (not required by submission)
 ethics/
+
+# Ignore dataset/provenance notes (not required by submission)
 data/
+
+# Ignore Task 6 helper and attempt logs
 llm_transcripts/ATTEMPTS_LOG.md
 llm_transcripts/guest_lines.txt
 llm_transcripts/interviewer_lines.txt
+
+# Ignore environment/debug files
+ENV_INFO.txt
+concat.txt
+
+# Ignore media files (keep them local only)
 *.mp4
 *.m4a
 *.mp3
-ENV_INFO.txt
-concat.txt
