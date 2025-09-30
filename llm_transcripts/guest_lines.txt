@@ -1,7 +1,0 @@
-Hi—happy to share what we learned.
-A1: Python gave us the ground truth and the LLMs matched it. We kept coming back to shooting efficiency and consistency across 19 games—those drove our evaluations.
-A2: Claude gave the most actionable tactics; Gemini added useful metrics and novel angles; ChatGPT was clear and strategic; Copilot mostly matched stats but miscounted by including non-player rows like “Team” and “Totals Opponents”—we corrected that.
-A3: We’re prioritizing lineup optimization, targeted player development, and specific defensive enhancements tied to the validated stats. The AI helped us rank what matters for drills.
-A4: Our MVP short-list comes from efficiency, reliability, and impact in key moments. We start with Python-validated numbers, then use LLM rationale to break ties.
-A5: Defensively, we’re emphasizing transition coverage; offensively, shot selection and quality. We’ll keep the Python checks to ensure our metrics don’t drift.
-Thanks for having me—this interview is AI-generated.

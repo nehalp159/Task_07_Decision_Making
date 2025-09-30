@@ -1,0 +1,11 @@
+outputs/
+ethics/
+data/
+llm_transcripts/ATTEMPTS_LOG.md
+llm_transcripts/guest_lines.txt
+llm_transcripts/interviewer_lines.txt
+*.mp4
+*.m4a
+*.mp3
+ENV_INFO.txt
+concat.txt
